@@ -1,6 +1,4 @@
-# About me
-
-Hi 👋, I'm Ana!
+# Hi 👋, I'm Ana!
 
 In this personal/academic github the following projects are displayed:
 
