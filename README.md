@@ -2,7 +2,7 @@
 
 Hi 👋, I'm Ana!
 
-In this personal/academic github the following projects are displyed:
+In this personal/academic github the following projects are displayed:
 
 - EP_Craps: implementation of the craps game, in which players bet on the outcomes of the roll of a pair of dice.
 - introduction_ai: introductory course on artificial inteligence. We explored concepts such as Autonomous Agent; Characterization of Environments; Resolution of problems using search space; Search strategies; Blind and informed search algorithms; Concept of Heuristics; Game Theory and Competitive Environments; Knowledge Representation; taking of Decision; Reinforcement Learning
